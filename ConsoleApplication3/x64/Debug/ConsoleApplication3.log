@@ -1,0 +1,7 @@
+﻿  ConsoleApplication3.cpp
+D:\ВСЕ\ТГУ\С++\ConsoleApplication3\Header.h(33,9): warning C4984: "if constexpr" — расширение языка C++17
+D:\ВСЕ\ТГУ\С++\ConsoleApplication3\Header.h(187,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ObjectMass<T>"
+D:\ВСЕ\ТГУ\С++\ConsoleApplication3\Header.h(37,14): warning C4984: "if constexpr" — расширение языка C++17
+D:\ВСЕ\ТГУ\С++\ConsoleApplication3\Header.h(84,9): warning C4984: "if constexpr" — расширение языка C++17
+D:\ВСЕ\ТГУ\С++\ConsoleApplication3\Header.h(89,14): warning C4984: "if constexpr" — расширение языка C++17
+  ConsoleApplication3.vcxproj -> D:\ВСЕ\ТГУ\С++\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
